@@ -1,0 +1,27 @@
+h1{
+	color: white;
+	background: #211e1e;
+	line-height: 200%;
+	padding-left:.5em; 
+	height: 2.3em;
+}
+*{
+  margin:0;
+  padding:0;
+}
+body{
+	font-family: 'Source Sans Pro', sans-serif;
+}
+input[type=text]{
+	width: 100em;
+	height:3em;
+	margin-left: 1em;
+	margin-right: 1em;
+	overflow: hidden;
+  margin-bottom: 1em;
+  margin: 1em;
+}
+input[type=submit]{
+  margin-top: 3em;
+  margin-left: 1em;
+}

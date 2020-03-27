@@ -1,0 +1,74 @@
+.col-lg-5 {
+    background-color: inherit;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: sticky;
+    height: calc(100vh);
+    right: 0em;
+}
+
+.bg-img {
+    position: relative;
+    z-index: -1;
+    height: calc(100vh);
+    right: 30em;
+}
+
+.col-lg-3 {
+    position: relative;
+    top: 0;
+    height: calc(100vh);
+    padding-top: .5rem;
+    background: #f53958;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+#branding {
+    position: relative;
+    top: 0;
+    height: calc(100vh);
+    padding-top: .5rem;
+    background: #09d3ac;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.logo-img {
+    position: sticky;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    top: 20em;
+    height: 12em;
+    width: 22em;
+    background: transparent;
+}
+
+.btn-primary {
+    position: sticky;
+    top: 24em;
+}
+
+.btn-secondary {
+    position: sticky;
+    top: 27em;
+}
+
+.title-splash {
+    position: sticky;
+    padding: 4px;
+    top: 1em;
+    background-color: #383838;
+    color: white;
+}
+
+.card {
+    position: relative;
+    top: 27em;
+}
+
+h5 {
+    position: sticky;
+    top: 17em;
+}

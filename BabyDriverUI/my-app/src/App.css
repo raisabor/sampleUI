@@ -1,0 +1,99 @@
+.App {
+	text-align: center;
+  }
+  
+  .App-logo {
+	height: 40vmin;
+  }
+  
+  .App-header {
+	background-color: #333;
+	min-height: 10vh;
+	display: flex;
+	flex-direction: column;
+	align-items: left;
+	justify-content: left;
+  color: white;
+  background-color: #333;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  }
+
+  .App-header h2 {
+  font-size: calc(10px + 2vmin);
+  }
+  
+  .App-body {
+	background:#f53958;
+	color: white;
+	font-size: calc(10px + 2vmin);
+  padding: 5vh;
+  background:#f53958;
+  color: white;
+  font-size: calc(5px + 2vmin);
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  padding: 5vh;
+  height: 100%; /* 100% Full-height */
+  width: 100%;
+  position: relative;
+  top: 0em;
+  }
+  
+  .App-span {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    height: 100%; /* 100% Full-height */
+    width: 15%; /* 0 width - change this with JavaScript */
+    position: fixed; /* Stay in place */
+    top: 0; /* Stay at the top */
+    left: 0;
+    padding: 12vh;
+    background: #09d3ac;
+    color: white;
+  }
+  
+  .text-white{
+    border-radius: 3px;
+  }
+
+  form {
+	position: relative;
+	left: 12%;
+  }
+  
+  .App-link {
+	color: #09d3ac;
+  }
+  
+  .App-header > h2 {
+	position: relative;
+	left: 12%;
+  }
+  
+
+.App-logo {
+  height: 40vmin;
+}
+
+#searchI{
+  width:85.5%;
+  float: right;
+  z-index: 1;
+}
+.react-calendar{
+  margin-left: 40em;
+}
+#parentList{
+  margin-top: 1em;
+  margin-bottom: 1rem;
+  position: absolute;
+  top: 31em;
+  left: 18em;
+}
